@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/a8/30/3d/a8303d17f0653e5a90ff8debc1b3cdb2.jpg");
+    /*display: flex;
+    flex-direction: row;*/
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.pai {
+    background-color: pink;
+    width: 630px;
+    height: 280px;
+    border: solid 0.5px firebrick;
+    margin: 10px;
+    padding: 10px;
+}
+
+.caixa {
+    border:solid 5px tomato;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo {
+    font-family: Loma;
+}
+
+.corPadrao {
+    color: indianred;
+    font-size: 50px;
+    font-family: Carlito;
+}
+
+.texto {
+    font-family: DejaVu Sans;
+}
